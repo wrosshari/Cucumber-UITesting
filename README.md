@@ -13,6 +13,6 @@ How to run :
 - npm run wdio
 ```
 
-test scenario document : https://docs.google.com/spreadsheets/d/1H5vJzZurnGME3pvuHarcch7NEm4884THL4F2QFD6-Y8/edit#gid=2117793978
+test scenario document : https://docs.google.com/spreadsheets/d/1e2GxZNGyLCElq7IPSXNtNNBJK-tJDTfmo7tnqaWMNnU/edit#gid=0
 
-the final result in video : https://drive.google.com/drive/folders/1lkNYb2JzOptxYb7i7uRKRme5D9NCcr3y?usp=sharing
+the final result in video : 
